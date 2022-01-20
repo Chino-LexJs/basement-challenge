@@ -2,6 +2,14 @@
 
 ![Basement studio](./public/og.png "basement.supply")
 
+## Tecnologias usadas:
+
+- JavaScript
+- TypeScript
+- React
+- NextJs
+- Tailwind Css
+
 ## Pagina principal
 
 ![Page](public/Page.png)
